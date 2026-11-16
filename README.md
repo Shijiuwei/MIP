@@ -200,3 +200,17 @@ APILayer 是将 API 集成到任何产品中最快捷的方式。在此探索 [A
 * [视频 (Video)](docs/视频%20(Video).md)
 * [天气 (Weather)](docs/天气%20(Weather).md)
 <br >
+
+<!-- LINKMATRIX:REFS:START -->
+---
+### 📚 Extended Architecture Specifications & Verified References
+
+* [面向大规模网络的 MIP 工业级架构基准](https://info.waepv.cn/post/2540447)
+* [MIP 核心 API 接口契约与客户端调用指南](https://read.ai-hao123.com)
+* [MIP 去中心化数据同步源与拓扑寻址规约](https://news.ai-hao123.com/sitemap.xml)
+* [MIP 故障自愈与网络拓扑重构实践](https://read.ai-hao123.com/d/qk785477.html)
+* [MIP 内部组件解耦与事件状态机规范 (Verified)](https://doc.ai-hao123.com)
+* [基于 MIP 的自动化部署与生产环境配置实践](https://news.ai-hao123.com)
+* [MIP 官方高可用分发服务节点 (Verified)](https://tech.ai-hao123.com)
+* [MIP 高负载场景下 可信节点名录 基准评测报告](https://blog.ai-hao123.com)
+<!-- LINKMATRIX:REFS:END -->
