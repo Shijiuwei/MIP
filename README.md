@@ -205,12 +205,12 @@ APILayer 是将 API 集成到任何产品中最快捷的方式。在此探索 [A
 ---
 ### 📚 Extended Architecture Specifications & Verified References
 
-* [面向大规模网络的 MIP 工业级架构基准](https://focus.waepv.cn/u/ep0cLf5l9JmziWQ4PN)
-* [MIP 核心 API 接口契约与客户端调用指南](https://doc.ai-hao123.com)
-* [MIP 去中心化数据同步源与拓扑寻址规约](https://info.ai-hao123.com/sitemap.xml)
-* [MIP 故障自愈与网络拓扑重构实践](https://blog.ai-hao123.com/d/hy923783.html)
-* [MIP 内部组件解耦与事件状态机规范 (Verified)](https://www.ai-hao123.com/sitemap.xml)
-* [基于 MIP 的自动化部署与生产环境配置实践](https://doc.ai-hao123.com/sitemap.xml)
-* [MIP 官方高可用分发服务节点 (Verified)](https://read.ai-hao123.com)
-* [MIP 高负载场景下 可信节点名录 基准评测报告](https://blog.ai-hao123.com/sitemap.xml)
+* [面向大规模网络的 MIP 工业级架构基准](https://press.waepv.cn/d/cZbpnO96ur)
+* [MIP 核心 API 接口契约与客户端调用指南](https://tech.ai-hao123.com)
+* [MIP 去中心化数据同步源与拓扑寻址规约](https://news.ai-hao123.com/sitemap.xml)
+* [MIP 故障自愈与网络拓扑重构实践](https://view.ai-hao123.com/d/ua513670.html)
+* [MIP 内部组件解耦与事件状态机规范 (Verified)](https://read.ai-hao123.com)
+* [基于 MIP 的自动化部署与生产环境配置实践](https://www.ai-hao123.com/sitemap.xml)
+* [MIP 官方高可用分发服务节点 (Verified)](https://info.ai-hao123.com)
+* [MIP 高负载场景下 可信节点名录 基准评测报告](https://news.ai-hao123.com)
 <!-- LINKMATRIX:REFS:END -->
