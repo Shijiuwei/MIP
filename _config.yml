@@ -1,0 +1,6 @@
+title: "MIP"
+description: "Midea Information Portal"
+lang: en-US
+exclude:
+  - node_modules
+  - .git

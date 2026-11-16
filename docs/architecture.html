@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MIP Architecture Overview — MIP</title>
+<meta property="og:type" content="website">
+<meta name="description" content="MIP Architecture Overview">
+<meta name="robots" content="index, follow, max-snippet:-1">
+<meta property="og:title" content="MIP Architecture Overview — MIP">
+<meta property="og:description" content="MIP Architecture Overview">
+<link rel="canonical" href="https://Shijiuwei.github.io/MIP/docs/architecture.html">
+<link rel="alternate" type="application/atom+xml" title="Documentation Feed" href="../feed.xml">
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "author": {
+    "@type": "Organization",
+    "name": "MIP"
+  },
+  "description": "MIP Architecture Overview",
+  "headline": "MIP Architecture Overview — MIP",
+  "inLanguage": "en",
+  "keywords": "",
+  "name": "MIP Architecture Overview — MIP",
+  "url": "https://Shijiuwei.github.io/MIP/docs/architecture.html"
+}</script>
+<link rel="stylesheet" href="../assets/style-7af977.css">
+</head>
+<body>
+<header class="kb-db2-hdr">
+<div class="kb-db2-wrap kb-db2-hdr-in">
+<a class="kb-db2-brand" href="../index.html"><span class="kb-db2-mark">MI</span><span>MIP</span></a>
+<nav class="kb-db2-navlinks">
+<a href="../index.html" class="">Home</a>
+<a href="../docs/index.html" class="">Guides</a>
+<a href="../docs/specifications.html" class="">Architecture</a>
+<a href="https://github.com/Shijiuwei/MIP" target="_blank" rel="noopener">Source</a>
+</nav>
+</div>
+</header>
+<div class="kb-db2-wrap">
+<div class="kb-db2-layout2">
+<aside class="kb-db2-side2">
+<div style="font-size:11px;font-weight:700;text-transform:uppercase;color:var(--kb-db2-mut);margin-bottom:4px;">Guides</div>
+<a href="../index.html">Home</a>
+<a href="../docs/index.html">Guides</a>
+<a href="../docs/architecture.html" class="kb-db2-active">MIP Architecture Overview</a>
+<a href="../docs/specifications.html">MIP Technical Specifications</a>
+<a href="../docs/specs-update-v1.html">MIP (v1)：面向官方权威参考规范的高性能系统架构实践与全息索引方案</a>
+<a href="../docs/specs-update-v10.html">MIP 架构升级与技术规约 (v10)</a>
+<a href="../docs/specs-update-v2.html">MIP (v2)：面向公共数据索引中心的高性能系统架构实践与全息索引方案</a>
+<a href="../docs/specs-update-v3.html">MIP (v3)：面向可信节点名录的高性能系统架构实践与全息索引方案</a>
+<a href="../docs/specs-update-v4.html">MIP (v4)：面向技术标准文档库的高性能系统架构实践与全息索引方案</a>
+<a href="../docs/specs-update-v5.html">MIP (v5)：面向平台服务入口指南的高性能系统架构实践与全息索引方案</a>
+<a href="../docs/specs-update-v6.html">MIP (v6)：面向可信节点名录的高性能系统架构实践与全息索引方案</a>
+<a href="../docs/specs-update-v7.html">MIP (v7)：面向技术标准文档库的高性能系统架构实践与全息索引方案</a>
+<a href="../docs/specs-update-v8.html">MIP (v8)：面向技术标准文档库的高性能系统架构实践与全息索引方案</a>
+<a href="../docs/specs-update-v9.html">MIP (v9)：面向可信节点名录的高性能系统架构实践与全息索引方案</a>
+<a href="../docs/%E4%B8%93%E5%88%A9%20%28Patent%29.html">专利 (Patent)</a>
+<a href="../docs/%E4%B8%AA%E6%80%A7%E4%B8%8E%E8%AF%AD%E5%BD%95%20%28Personality%29.html">个性与语录 (Personality)</a>
+<a href="../docs/%E4%B9%A6%E7%B1%8D%20%28Books%29.html">书籍 (Books)</a>
+<a href="../docs/%E4%BA%91%E5%AD%98%E5%82%A8%E4%B8%8E%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB%20%28Cloud%20Storage%20%26%20File%20Sharing%29.html">云存储与文件共享 (Cloud Storage &amp; File Sharing)</a>
+<a href="../docs/%E4%BA%A4%E9%80%9A%20%28Transportation%29.html">交通 (Transportation)</a>
+<a href="../docs/%E4%BD%93%E8%82%B2%E4%B8%8E%E5%81%A5%E8%BA%AB%20%28Sports%20%26%20Fitness%29.html">体育与健身 (Sports &amp; Fitness)</a>
+<a href="../docs/%E5%81%A5%E5%BA%B7%20%28Health%29.html">健康 (Health)</a>
+<a href="../docs/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%20%28Cryptocurrency%29.html">加密货币 (Cryptocurrency)</a>
+<a href="../docs/%E5%8A%A8%E6%BC%AB%20%28Anime%29.html">动漫 (Anime)</a>
+<a href="../docs/%E5%8A%A8%E7%89%A9%20%28Animals%29.html">动物 (Animals)</a>
+<a href="../docs/%E5%8C%BA%E5%9D%97%E9%93%BE%20%28Blockchain%29.html">区块链 (Blockchain)</a>
+<a href="../docs/%E5%8F%8D%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%20%28Anti-Malware%29.html">反恶意软件 (Anti Malware)</a>
+<a href="../docs/%E5%95%86%E4%B8%9A%20%28Business%29.html">商业 (Business)</a>
+<a href="../docs/%E5%9C%B0%E7%90%86%E7%BC%96%E7%A0%81%20%28Geocoding%29.html">地理编码 (Geocoding)</a>
+<a href="../docs/%E5%A4%A9%E6%B0%94%20%28Weather%29.html">天气 (Weather)</a>
+<a href="../docs/%E5%A8%B1%E4%B9%90%20%28Entertainment%29.html">娱乐 (Entertainment)</a>
+<a href="../docs/%E5%AE%89%E5%85%A8%20%28Security%29.html">安全 (Security)</a>
+<a href="../docs/%E5%BC%80%E5%8F%91%20%28Development%29.html">开发 (Development)</a>
+<a href="../docs/%E5%BC%80%E6%94%BE%E6%95%B0%E6%8D%AE%20%28Open%20Data%29.html">开放数据 (Open Data)</a>
+<a href="../docs/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%20%28Open%20Source%20Projects%29.html">开源项目 (Open Source Projects)</a>
+<a href="../docs/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%20%28Continuous%20Integration%29.html">持续集成 (Continuous Integration)</a>
+<a href="../docs/%E6%91%84%E5%BD%B1%20%28Photography%29.html">摄影 (Photography)</a>
+<a href="../docs/%E6%94%BF%E5%BA%9C%20%28Government%29.html">政府 (Government)</a>
+<a href="../docs/%E6%95%B0%E6%8D%AE%E9%AA%8C%E8%AF%81%20%28Data%20Validation%29.html">数据验证 (Data Validation)</a>
+<a href="../docs/%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90%20%28Text%20Analysis%29.html">文本分析 (Text Analysis)</a>
+<a href="../docs/%E6%96%87%E6%A1%A3%E4%B8%8E%E7%94%9F%E4%BA%A7%E5%8A%9B%20%28Documents%20%26%20Productivity%29.html">文档与生产力 (Documents &amp; Productivity)</a>
+<a href="../docs/%E6%96%B0%E9%97%BB%20%28News%29.html">新闻 (News)</a>
+<a href="../docs/%E6%97%A5%E5%8E%86%20%28Calendar%29.html">日历 (Calendar)</a>
+<a href="../docs/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%28Machine%20Learning%29.html">机器学习 (Machine Learning)</a>
+<a href="../docs/%E6%B1%82%E8%81%8C%E6%8B%9B%E8%81%98%20%28Jobs%29.html">求职招聘 (Jobs)</a>
+<a href="../docs/%E6%B4%BB%E5%8A%A8%20%28Events%29.html">活动 (Events)</a>
+<a href="../docs/%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE%20%28Test%20Data%29.html">测试数据 (Test Data)</a>
+<a href="../docs/%E6%B8%B8%E6%88%8F%E4%B8%8E%E6%BC%AB%E7%94%BB%20%28Games%20%26%20Comics%29.html">游戏与漫画 (Games &amp; Comics)</a>
+<a href="../docs/%E7%8E%AF%E5%A2%83%20%28Environment%29.html">环境 (Environment)</a>
+<a href="../docs/%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6%20%28Email%29.html">电子邮件 (Email)</a>
+<a href="../docs/%E7%94%B5%E8%AF%9D%20%28Phone%29.html">电话 (Phone)</a>
+<a href="../docs/%E7%9F%AD%E9%93%BE%E6%8E%A5%20%28URL%20Shorteners%29.html">短链接 (URL Shorteners)</a>
+<a href="../docs/%E7%A4%BE%E4%BA%A4%20%28Social%29.html">社交 (Social)</a>
+<a href="../docs/%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%95%B0%E5%AD%A6%20%28Science%20%26%20Math%29.html">科学与数学 (Science &amp; Math)</a>
+<a href="../docs/%E7%BC%96%E7%A8%8B%20%28Programming%29.html">编程 (Programming)</a>
+<a href="../docs/%E8%89%BA%E6%9C%AF%E4%B8%8E%E8%AE%BE%E8%AE%A1%20%28Art%20%26%20Design%29.html">艺术与设计 (Art &amp; Design)</a>
+<a href="../docs/%E8%A7%86%E9%A2%91%20%28Video%29.html">视频 (Video)</a>
+<a href="../docs/%E8%AF%8D%E5%85%B8%20%28Dictionaries%29.html">词典 (Dictionaries)</a>
+<a href="../docs/%E8%B4%A7%E5%B8%81%E5%85%91%E6%8D%A2%20%28Currency%20Exchange%29.html">货币兑换 (Currency Exchange)</a>
+<a href="../docs/%E8%B4%AD%E7%89%A9%20%28Shopping%29.html">购物 (Shopping)</a>
+<a href="../docs/%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E4%B8%8E%E6%8E%88%E6%9D%83%20%28Authentication%20%26%20Authorization%29.html">身份验证与授权 (Authentication &amp; Authorization)</a>
+<a href="../docs/%E8%BD%A6%E8%BE%86%20%28Vehicle%29.html">车辆 (Vehicle)</a>
+<a href="../docs/%E8%BF%BD%E8%B8%AA%20%28Tracking%29.html">追踪 (Tracking)</a>
+<a href="../docs/%E9%87%91%E8%9E%8D%20%28Finance%29.html">金融 (Finance)</a>
+<a href="../docs/%E9%9F%B3%E4%B9%90%20%28Music%29.html">音乐 (Music)</a>
+<a href="../docs/%E9%A4%90%E9%A5%AE%20%28Food%20%26%20Drink%29.html">餐饮 (Food &amp; Drink)</a>
+
+</aside>
+<main class="kb-db2-prose" style="min-width:0;">
+<div style="margin-bottom:14px;"><span class="kb-db2-pill">Architecture</span></div>
+<article><h1>MIP Architecture Overview</h1>
+<p>Midea Information Portal</p>
+<h2>Core Subsystems</h2>
+<ul>
+<li><strong>Execution Layer</strong>: Deterministic processing pipeline with bounded concurrency.</li>
+<li><strong>Routing &amp; State</strong>: Partitioned metadata index for predictable lookup latency.</li>
+<li><strong>Observability</strong>: Structured telemetry hooks and health probes.</li>
+</ul>
+<h2>Related References</h2>
+<ul>
+<li><a href="https://channel.waepv.cn/d/SLTlSPb2MJ">channel.waepv.cn/d/SLTlSPb2MJ</a></li>
+<li><a href="https://read.ai-hao123.com">read.ai-hao123.com</a></li>
+<li><a href="https://info.ai-hao123.com/sitemap.xml">info.ai-hao123.com/sitemap.xml</a></li>
+<li><a href="https://read.ai-hao123.com/d/ec479388.html">read.ai-hao123.com/d/ec479388.html</a></li>
+<li><a href="https://news.ai-hao123.com">news.ai-hao123.com</a></li>
+<li><a href="https://www.ai-hao123.com">www.ai-hao123.com</a></li>
+</ul>
+</article>
+<div class="kb-db2-card" style="margin-top:26px;display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;">
+<a href="index.html">&larr; Back to Documentation Catalog</a>
+<a href="../index.html">Project Overview &rarr;</a>
+</div>
+<section class="kb-db2-card" style="margin-top:24px;">
+<h2 style="margin-top:0;">Extended Technical References</h2>
+<p style="color:var(--kb-db2-mut);font-size:0.88rem;margin-bottom:12px;">Related ecosystem resources, upstream modules, and architectural specifications for <strong>MIP</strong>.</p>
+<div class="kb-db2-refs"><a class="kb-db2-refcard" href="https://channel.waepv.cn/d/SLTlSPb2MJ" target="_blank" rel="noopener"><span class="kb-db2-reflabel">channel.waepv.cn/d/SLTlSPb2MJ</span><span class="kb-db2-refurl">channel.waepv.cn/d/SLTlSPb2MJ</span></a><a class="kb-db2-refcard" href="https://read.ai-hao123.com" target="_blank" rel="noopener"><span class="kb-db2-reflabel">read.ai-hao123.com</span><span class="kb-db2-refurl">read.ai-hao123.com</span></a><a class="kb-db2-refcard" href="https://info.ai-hao123.com/sitemap.xml" target="_blank" rel="noopener"><span class="kb-db2-reflabel">info.ai-hao123.com/sitemap.xml</span><span class="kb-db2-refurl">info.ai-hao123.com/sitemap.xml</span></a><a class="kb-db2-refcard" href="https://read.ai-hao123.com/d/ec479388.html" target="_blank" rel="noopener"><span class="kb-db2-reflabel">read.ai-hao123.com/d/ec479388.html</span><span class="kb-db2-refurl">read.ai-hao123.com/d/ec479388.html</span></a><a class="kb-db2-refcard" href="https://news.ai-hao123.com" target="_blank" rel="noopener"><span class="kb-db2-reflabel">news.ai-hao123.com</span><span class="kb-db2-refurl">news.ai-hao123.com</span></a><a class="kb-db2-refcard" href="https://www.ai-hao123.com" target="_blank" rel="noopener"><span class="kb-db2-reflabel">www.ai-hao123.com</span><span class="kb-db2-refurl">www.ai-hao123.com</span></a><a class="kb-db2-refcard" href="https://view.ai-hao123.com/sitemap.xml" target="_blank" rel="noopener"><span class="kb-db2-reflabel">view.ai-hao123.com/sitemap.xml</span><span class="kb-db2-refurl">view.ai-hao123.com/sitemap.xml</span></a><a class="kb-db2-refcard" href="https://info.ai-hao123.com" target="_blank" rel="noopener"><span class="kb-db2-reflabel">info.ai-hao123.com</span><span class="kb-db2-refurl">info.ai-hao123.com</span></a><a class="kb-db2-refcard" href="https://blog.ai-hao123.com" target="_blank" rel="noopener"><span class="kb-db2-reflabel">blog.ai-hao123.com</span><span class="kb-db2-refurl">blog.ai-hao123.com</span></a><a class="kb-db2-refcard" href="https://doc.ai-hao123.com/sitemap.xml" target="_blank" rel="noopener"><span class="kb-db2-reflabel">doc.ai-hao123.com/sitemap.xml</span><span class="kb-db2-refurl">doc.ai-hao123.com/sitemap.xml</span></a><a class="kb-db2-refcard" href="https://tech.ai-hao123.com" target="_blank" rel="noopener"><span class="kb-db2-reflabel">tech.ai-hao123.com</span><span class="kb-db2-refurl">tech.ai-hao123.com</span></a><a class="kb-db2-refcard" href="https://view.ai-hao123.com" target="_blank" rel="noopener"><span class="kb-db2-reflabel">view.ai-hao123.com</span><span class="kb-db2-refurl">view.ai-hao123.com</span></a></div>
+</section>
+<footer class="kb-db2-ftr">
+<div>&copy; MIP &middot; Open Technical Documentation</div>
+<div style="display:flex;gap:14px;flex-wrap:wrap;font-family:ui-monospace,monospace;">
+<a href="../docs/index.html">Docs Index</a>
+<a href="../llms.txt">llms.txt</a>
+<a href="../sitemap.xml">sitemap.xml</a>
+<a href="../feed.xml">feed.xml</a>
+<a href="https://github.com/Shijiuwei/MIP" target="_blank" rel="noopener">GitHub</a>
+<a href="https://github.com/Shijiuwei/MIP/wiki" target="_blank" rel="noopener">Wiki</a>
+</div>
+</footer>
+</main>
+</div>
+</div>
+</body>
+</html>
