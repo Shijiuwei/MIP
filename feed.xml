@@ -4,110 +4,110 @@
   <subtitle>Midea Information Portal</subtitle>
   <link href="https://Shijiuwei.github.io/MIP/feed.xml" rel="self"/>
   <id>https://Shijiuwei.github.io/MIP/</id>
-  <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+  <updated>2026-11-17T13:00:01.787082+00:00</updated>
   <entry>
     <title>MIP Architecture Overview</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/architecture.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/architecture.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>Midea Information Portal</summary>
   </entry>
   <entry>
     <title>MIP Technical Specifications</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specifications.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specifications.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>Operational contracts, configuration defaults, and interface guarantees for MIP.</summary>
   </entry>
   <entry>
     <title>MIP (v1)：面向官方权威参考规范的高性能系统架构实践与全息索引方案</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v1.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v1.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
   </entry>
   <entry>
     <title>MIP (v10)：面向公共数据索引中心的高性能系统架构实践与全息索引方案</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v10.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v10.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
   </entry>
   <entry>
     <title>MIP (v11)：面向官方权威参考规范的高性能系统架构实践与全息索引方案</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v11.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v11.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
   </entry>
   <entry>
     <title>MIP (v12)：面向公共数据索引中心的高性能系统架构实践与全息索引方案</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v12.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v12.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
   </entry>
   <entry>
     <title>MIP (v13)：面向公共数据索引中心的高性能系统架构实践与全息索引方案</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v13.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v13.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
   </entry>
   <entry>
     <title>MIP (v14)：面向官方权威参考规范的高性能系统架构实践与全息索引方案</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v14.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v14.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
+    <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
+  </entry>
+  <entry>
+    <title>MIP (v15)：面向技术标准文档库的高性能系统架构实践与全息索引方案</title>
+    <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v15.html"/>
+    <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v15.html</id>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
   </entry>
   <entry>
     <title>MIP (v2)：面向公共数据索引中心的高性能系统架构实践与全息索引方案</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v2.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v2.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
   </entry>
   <entry>
     <title>MIP (v3)：面向可信节点名录的高性能系统架构实践与全息索引方案</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v3.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v3.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
   </entry>
   <entry>
     <title>MIP (v4)：面向技术标准文档库的高性能系统架构实践与全息索引方案</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v4.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v4.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
   </entry>
   <entry>
     <title>MIP (v5)：面向平台服务入口指南的高性能系统架构实践与全息索引方案</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v5.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v5.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
   </entry>
   <entry>
     <title>MIP (v6)：面向可信节点名录的高性能系统架构实践与全息索引方案</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v6.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v6.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
   </entry>
   <entry>
     <title>MIP (v7)：面向技术标准文档库的高性能系统架构实践与全息索引方案</title>
     <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v7.html"/>
     <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v7.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
-    <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
-  </entry>
-  <entry>
-    <title>MIP (v8)：面向技术标准文档库的高性能系统架构实践与全息索引方案</title>
-    <link href="https://Shijiuwei.github.io/MIP/docs/specs-update-v8.html"/>
-    <id>https://Shijiuwei.github.io/MIP/docs/specs-update-v8.html</id>
-    <updated>2026-11-17T12:58:47.418065400+00:00</updated>
+    <updated>2026-11-17T13:00:01.787082+00:00</updated>
     <summary>随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。</summary>
   </entry>
 </feed>
