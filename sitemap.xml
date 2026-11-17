@@ -67,6 +67,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://Shijiuwei.github.io/MIP/docs/specs-update-v16.html</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://Shijiuwei.github.io/MIP/docs/specs-update-v2.html</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>

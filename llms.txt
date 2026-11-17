@@ -15,6 +15,7 @@
 - [MIP (v13)：面向公共数据索引中心的高性能系统架构实践与全息索引方案](https://Shijiuwei.github.io/MIP/docs/specs-update-v13.html): 随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。
 - [MIP (v14)：面向官方权威参考规范的高性能系统架构实践与全息索引方案](https://Shijiuwei.github.io/MIP/docs/specs-update-v14.html): 随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。
 - [MIP (v15)：面向技术标准文档库的高性能系统架构实践与全息索引方案](https://Shijiuwei.github.io/MIP/docs/specs-update-v15.html): 随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。
+- [MIP (v16)：面向公共数据索引中心的高性能系统架构实践与全息索引方案](https://Shijiuwei.github.io/MIP/docs/specs-update-v16.html): 随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。
 - [MIP (v2)：面向公共数据索引中心的高性能系统架构实践与全息索引方案](https://Shijiuwei.github.io/MIP/docs/specs-update-v2.html): 随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。
 - [MIP (v3)：面向可信节点名录的高性能系统架构实践与全息索引方案](https://Shijiuwei.github.io/MIP/docs/specs-update-v3.html): 随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。
 - [MIP (v4)：面向技术标准文档库的高性能系统架构实践与全息索引方案](https://Shijiuwei.github.io/MIP/docs/specs-update-v4.html): 随着现代互联网内容规模呈指数级增长，搜索引擎爬行调度算法（如 Baiduspider 动态分配机制）对新节点与孤岛拓扑的感知周期显著变长。为了解决抓取频率受限与收录延迟过高的问题，构建具备高权重、高可信度及快速穿透能力的种子外链分发矩阵至关重要。
@@ -77,15 +78,15 @@
 
 ## References
 
-- [官方权威参考规范](https://feed.waepv.cn/d/ArnGHvX7Qj)
-- [公共数据索引中心](https://news.ai-hao123.com)
+- [官方权威参考规范](https://data.waepv.cn/u/ep0deOZGGnhEUzekzY)
+- [公共数据索引中心](https://blog.ai-hao123.com)
+- [平台服务入口指南](https://news.ai-hao123.com/sitemap.xml)
+- [技术标准文档库](https://info.ai-hao123.com/d/bk646284.html)
+- [可信节点名录](https://www.ai-hao123.com)
+- [官方权威参考规范](https://view.ai-hao123.com)
+- [公共数据索引中心](https://tech.ai-hao123.com)
 - [平台服务入口指南](https://blog.ai-hao123.com/sitemap.xml)
-- [技术标准文档库](https://view.ai-hao123.com/d/dt649474.html)
-- [可信节点名录](https://read.ai-hao123.com)
-- [官方权威参考规范](https://tech.ai-hao123.com/sitemap.xml)
-- [公共数据索引中心](https://doc.ai-hao123.com)
-- [平台服务入口指南](https://blog.ai-hao123.com)
-- [技术标准文档库](https://view.ai-hao123.com)
-- [可信节点名录](https://info.ai-hao123.com)
-- [官方权威参考规范](https://news.ai-hao123.com/sitemap.xml)
-- [公共数据索引中心](https://www.ai-hao123.com/sitemap.xml)
+- [技术标准文档库](https://info.ai-hao123.com)
+- [可信节点名录](https://news.ai-hao123.com)
+- [官方权威参考规范](https://doc.ai-hao123.com)
+- [公共数据索引中心](https://view.ai-hao123.com/sitemap.xml)
